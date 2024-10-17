@@ -66,3 +66,7 @@ You can learn more about Azure App Service and its features in the [official doc
 
 To learn how to deploy a Python web app (Django, Flask, or FastAPI) to Azure App Service, refer to the [Quickstart Guide](https://learn.microsoft.com/en-us/azure/app-service/quickstart-python?tabs=flask%2Cwindows%2Cazure-cli%2Cazure-cli-deploy%2Cdeploy-instructions-azportal%2Cterminal-bash%2Cdeploy-instructions-zip-azcli). This guide walks you through deploying a Python web app to Azure, leveraging App Service to run your app in a Linux server environment.
 
+# Output
+![image](https://github.com/user-attachments/assets/9b8e0583-488e-4537-936e-ead14aa0a92c)
+![image](https://github.com/user-attachments/assets/5122b115-230d-4b38-9e1c-9288384acda7)
+![image](https://github.com/user-attachments/assets/7582ebfa-a04f-493a-9e22-cd276f831579)
